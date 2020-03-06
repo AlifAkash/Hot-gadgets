@@ -1,0 +1,20 @@
+.container{
+    margin-bottom: 30px;
+}
+.navbar{
+    height: 50px;
+}
+.navbar img{
+    margin-top: 40px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-new-btn{
+    background-image: linear-gradient(to bottom, #7D7D7D, #1E1E1E);
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    cursor: pointer;
+}
