@@ -43,3 +43,31 @@ h5{
 hr{
     border: 5px solid green;
 }
+.cat::after{
+    content: '';
+    height: 10px;
+    width: 150px;
+    display: block;
+    background-image: linear-gradient(to right, orange, orangered);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.bag,.perfume,.shoe{
+    padding: 30px 50px 0px;
+    box-shadow: 0 0 10px lightgrey;
+    border-radius: 40px 0px 40px 0px;
+    margin-top: 20px;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+.form-control{
+    margin-bottom: 5px;
+}
+.pink-bg{
+    background-color: pink;
+}
