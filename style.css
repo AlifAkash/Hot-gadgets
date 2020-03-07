@@ -71,3 +71,6 @@ hr{
 .pink-bg{
     background-color: pink;
 }
+.copy-right small{
+    text-align: center;
+}
