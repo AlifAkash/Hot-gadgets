@@ -10,6 +10,10 @@
 .carousel-item{
     padding: 20px 40px;
 }
+.carousel-indicators li {
+    background-color: orangered;
+    border-radius: 15px;
+}
 .buy-new-btn{
     background-image: linear-gradient(to bottom, #7D7D7D, #1E1E1E);
     color: whitesmoke;
@@ -17,4 +21,25 @@
     border-radius: 5px;
     padding: 10px 25px;
     cursor: pointer;
+}
+.header{
+    margin-bottom: 30px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+h4 a{
+    color: orange;
+}
+.card{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+h5{
+    text-align: center;
+}
+hr{
+    border: 5px solid green;
 }
